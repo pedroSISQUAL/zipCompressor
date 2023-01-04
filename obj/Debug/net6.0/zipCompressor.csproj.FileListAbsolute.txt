@@ -1,0 +1,15 @@
+C:\MyFiles\zipCompressor\bin\Debug\net6.0\zipCompressor.exe
+C:\MyFiles\zipCompressor\bin\Debug\net6.0\zipCompressor.deps.json
+C:\MyFiles\zipCompressor\bin\Debug\net6.0\zipCompressor.runtimeconfig.json
+C:\MyFiles\zipCompressor\bin\Debug\net6.0\zipCompressor.dll
+C:\MyFiles\zipCompressor\bin\Debug\net6.0\zipCompressor.pdb
+C:\MyFiles\zipCompressor\obj\Debug\net6.0\zipCompressor.csproj.AssemblyReference.cache
+C:\MyFiles\zipCompressor\obj\Debug\net6.0\zipCompressor.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\zipCompressor\obj\Debug\net6.0\zipCompressor.AssemblyInfoInputs.cache
+C:\MyFiles\zipCompressor\obj\Debug\net6.0\zipCompressor.AssemblyInfo.cs
+C:\MyFiles\zipCompressor\obj\Debug\net6.0\zipCompressor.csproj.CoreCompileInputs.cache
+C:\MyFiles\zipCompressor\obj\Debug\net6.0\zipCompressor.dll
+C:\MyFiles\zipCompressor\obj\Debug\net6.0\refint\zipCompressor.dll
+C:\MyFiles\zipCompressor\obj\Debug\net6.0\zipCompressor.pdb
+C:\MyFiles\zipCompressor\obj\Debug\net6.0\zipCompressor.genruntimeconfig.cache
+C:\MyFiles\zipCompressor\obj\Debug\net6.0\ref\zipCompressor.dll
